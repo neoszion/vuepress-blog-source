@@ -1,0 +1,20 @@
+{
+  "name": "vuepress1.x",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/vuepress1.x",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^2.0.0-beta.61",
+    "vuepress": "^1.5.3"
+  }
+}
